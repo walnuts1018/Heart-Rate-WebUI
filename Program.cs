@@ -1,6 +1,7 @@
 using Heart_Rate_WebUI.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Radzen;
 
 var builder = WebApplication.CreateBuilder(args);
 
